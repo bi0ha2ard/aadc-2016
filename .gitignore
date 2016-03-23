@@ -1,0 +1,7 @@
+bin
+build
+CMakeLists.txt.*
+projects/*/config/*.running_layout
+projects/*/config/*.runninglayout
+projects/*/config/*.config_layout
+projects/*/config/system_config_files
